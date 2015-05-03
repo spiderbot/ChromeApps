@@ -1,0 +1,9 @@
+{
+"name": "piyush"
+"version": "1.0"
+"description": "a basic hello world extension"
+"browser_action" :
+{
+"default_icon": "camera-icon.png"
+}
+}
